@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/painel-adm.iml" filepath="$PROJECT_DIR$/painel-adm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/painel-adm_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/painel-adm_integrationTest.iml" group="painel-adm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/painel-adm_main.iml" filepath="$PROJECT_DIR$/.idea/modules/painel-adm_main.iml" group="painel-adm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/painel-adm_test.iml" filepath="$PROJECT_DIR$/.idea/modules/painel-adm_test.iml" group="painel-adm" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+#Fri, 23 Nov 2018 15:20:03 -0300
+
+info.app.version=0.1
+info.app.name=painel-adm
+grails.env=development
+info.app.grailsVersion=3.3.6
